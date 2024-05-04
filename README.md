@@ -3,4 +3,4 @@ purpose of this project is to create a website dedicated to showcasing the iconi
 The website will serve as an immersive platform for Porsche enthusiasts and potential
 customers to explore the brand, its history.
 info@porsche.com
-Omar Ossama, Omar Elmeselhy, Donia Salem, Fares Sadek, Hussain Yasser, Mazen Yasser.
+The contributers to the project: Omar Ossama, Omar Elmeselhy, Donia Salem, Fares Sadek, Hussain Yasser, Mazen Yasser.
