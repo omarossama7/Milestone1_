@@ -1,0 +1,101 @@
+‹div class="containe
+
+About'
+
+‹div class="row">
+
+‹div class="col-md-6"›
+
+<h1 style="text-align: center;"›About Porsche‹/h1> <img src="porsche.png"
+
+</div>
+
+alt="Porsche Image"
+
+class="porsche-image"
+
+style="display: block; margin:
+
+‹div class="col-md-6">
+
+<h2>Welcome to Porsche</h2>
+
+‹p›A Legacy of Performance and Innovation
+
+An Porsche, have teen e the foreton of automotive excellence, blenate lech daritape os !
+
+Since our inception our Hast me hahe been at the forefront of automotive engineering, crafting legendary sports
+
+‹p›Founded by Ferdinand Porsche in Stuttgart,
+
+Germany, we embarked on a journey of automotive in
+
+911. Over the decades, we have expanded our lineup to encompass a diverse range of models while staying true to
+
+<h5>Our Mission: </h5>
+
+‹p›Our mission at Porsche is to deliver unparalleled driving pleasure through vehicles that seam.
+
+that not only excel on the racetrack but also elevate everyday journeys with unmatched comfort and innovation. A: electrification efforts,
+
+paving the way for a cleaner and more thrilling driving experience.‹/p>
+
+<h5>Notable Achievements: </h5>
+
+‹ul>
+
+‹ li>Motorsport Legacy: With a storied history of motorsport victories, including numerous wir
+
+Porsche continues to push the boundaries of performance on and off the track.‹/li>
+
+‹ li›Engineering Excellence: Our relentless pursuit of engineering excellence has led to grour
+
+and state-of-the-art hybrid and electric technologies.‹/li>
+
+‹li>Customer Satisfaction: Porsche's unwavering commitment to quality and customer satisfacti
+
+unparalleled driving experiences.‹/li>
+
+</ul>
+
+‹p›Explore our lineup of exceptional vehicles, from the iconic 911 and thrilling Taycan to the ve
+
+and experience the thrill of driving a Porsche firsthand. ‹/p›
+
+</div>
+
+</div>
+
+‹/div>
+
+‹ script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body> k/html>
+
+k! DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+‹meta charset="UTF-8">
+
+‹meta name="viewport" content="width=device-width, initial-scale=1.0"›
+
+<title>Porsche</title>
+
+‹link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+< link rel="stylesheet" href="style.css"›
+
+</head> < body>
+
+‹nav class="navbar navbar-expand-lg bg-body-tertiary container-fluid"›
+
+<img src="porsche_logo.png" width="3%" height="3%" ›
+
+‹a class="navbar-brand" href="about.html"›Porsche‹/a>
+
+‹button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupported
+
+navigation"›
