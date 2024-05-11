@@ -23,4 +23,3 @@ router.put('/products/:id', [authenticateToken, adminCheck], productsController.
 router.delete('/products/:id', [authenticateToken, adminCheck], productsController.deleteProduct);
 
 module.exports = router;
-
