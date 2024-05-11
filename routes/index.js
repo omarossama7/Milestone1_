@@ -20,8 +20,8 @@ router.post('/order/:userId', authMiddleware, userController.createOrder);//
 router.put('/users/:userId', authMiddleware, userController.updateUser);//
 
 //Orders routes
-router.post('/orders',authMiddleware, ordersController.placeOrder);
-router.get('/orders', authMiddleware, ordersController.getOrdersByUser);
+router.post('/orders/:id',authMiddleware, ordersController.placeOrder);//
+router.get('/orders/:id', authMiddleware, ordersController.getOrdersByUser);
 
 
 // Admin routes
