@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Using environment variables to manage the MongoDB URI
-const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017';
+const mongoURI =  'mongodb://localhost:27017/Porsche';
 
 const connectDB = async () => {
     try {
