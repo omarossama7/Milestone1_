@@ -1,0 +1,151 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-image: url("https://wallpapercave.com/wp/wp12623818.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;
+
+background-position: center top;
+}
+
+.PorWebLogo{
+    margin-top: 0px;
+    margin-left: 10px;
+    width: 145px;
+    height: 120px;
+    margin-left:10px;
+
+
+}
+
+li,a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none
+    padding 0px 20px;
+    text-decoration: none;
+    color: white;
+    
+    
+
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 5px 10%;
+    
+    width: auto;
+    height: 70px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: black;
+}
+
+
+    
+
+
+ul{
+    list-style: none;
+    
+}
+li {
+    display: inline-block;
+    margin-right: 10px; 
+    font-family: Arial;
+    font-size: 20px;
+    text-align: left;
+    color: aliceblue;
+    background-color: black;
+    padding-left: 25px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+  }
+
+  button{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 100px;
+    margin-right: 10px;
+    background-color: rgb(194, 144, 73);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: white;
+    border:none;
+    border-radius: 45px;
+    font-family: "Montserrat", sans-serif;
+}
+button:hover{
+    background-color: black;
+    color:rgb(194, 144, 73) ;
+    cursor: pointer;
+    transition:0.4s;
+        }
+    
+
+#LogBox{
+    display: block;
+ 
+     justify-content: space-between;
+     text-align: center;
+    
+     margin-left : auto;
+     margin-right :auto;
+     
+     font-weight: 700;
+     color: rgb(64, 35, 6);
+     font-family: "Montserrat", sans-serif;
+     width: 500px;
+     
+     margin-right: auto;
+     margin-top: 100px;
+     
+     background-color: rgba(255, 233, 202, 0.8);
+     border-radius: 5px;
+    padding:20px;
+    overflow: auto;
+    height: auto;
+    border: none;
+
+ 
+   }
+
+   .Feild{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:290px;
+    height:40px;
+    margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    background-color:rgba(255, 203, 129, 0.8) ;
+    border-color: rgba(214, 151, 61, 0.8);
+    border-radius: 100px;
+    padding-left: 20px;;
+    color: black;
+    border-style: solid;
+    
+   }
+   .Feild:hover{
+    background-color:rgba(255, 203, 129, 0.6) ;
+   }
+   .SignQ{
+    margin-top: 90px;
+   }
+   .sepBut{
+    margin-top: 20px;
+    
+   }
